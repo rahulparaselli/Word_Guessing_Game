@@ -22,13 +22,13 @@ while True:
 
         while max_attempts > 0:
             letters = pattern["pattern"].split("?")
-            print("guess the word:start with", letters[0], "and contains", letters[-1])
-            print("length of the word is", len(pattern["pattern"]))
+            print("guess the word:start with  ", letters[0], "  and contains  ", letters[-1])
+            print("length of the word is : ", len(pattern["pattern"]))
             print("~"*40) 
             guess = input("Enter your guess: ")
             print("~"*40) 
             if guess.lower() in pattern["words"]:
-                print("You guessed the word! in ", max_attempts, "attempts")
+                print("You guessed the word! in ", max_attempts, " attempts")
                 print("~"*40) 
                 break
             else:
