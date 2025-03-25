@@ -69,7 +69,7 @@
       {"pattern": "d?????k", "words": ["daffock", "dammock", "dammock", "dammock", "dammock"]},
       {"pattern": "e?????t", "words": ["earnest", "eclipse", "educate", "elastic", "emerald"]},
       {"pattern": "f?????l", "words": ["faculty", "fantail", "fascial", "festool", "fossick"]},
-      {"pattern": "g?????d", "words": ["gabfest", "gadwall", "galilee", "garbage", "gazelle"]},
+      {"pattern": "g?????b", "words": ["gabfest", "gadwall", "galilee", "garbage", "gazelle"]},
       {"pattern": "h?????l", "words": ["habile", "hackle", "haggle", "hammock", "hassle"]},
       {"pattern": "i?????t", "words": ["iceboat", "illicit", "impulse", "inspect", "invert"]},
       {"pattern": "j?????e", "words": ["jackdaw", "jasmine", "jetties", "jostle", "jumble"]},
@@ -104,4 +104,4 @@
       {"pattern": "s??????u", "words": ["saffron", "sailor", "salmon", "sapphire", "scuttle"]},
       {"pattern": "t??????w", "words": ["tableau", "tackle", "tallow", "temple", "tumble"]}
     ]
-  }
+}
